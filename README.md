@@ -1,13 +1,25 @@
 # CRUD-App
-Build a Full-Stack CRUD App Using React, Node, MySQL
+** install all dependency 
+++ node.js & xampp 
 
 
-*you have to dowloand file and
-*in your system node.js and xammp is install 
-* open your terminal and run the commond
-* npm start // for frontend
-* npm server.js //backed
-* * no need to install any other dependency because i upload all the dependency file also
+
+Project Details:
+- Frontend: React.js
+- Backend: Node.js and Express
+- Database: MySQL
+
+Key Features:![Screenshot (18)](https://github.com/pathakmrityunjaykumar/CRUD-App/assets/61449824/83acc72b-ef81-40e5-b441-9b91a971c8d2)
+
+- Create, Read, Update, and Delete user records.
+- User-friendly interface with basic input validation.
+- API endpoints for efficient data management.
+- Proper error handling and validation feedback.
+- Environment variables for configuration settings.
+- Sorting and filtering features for user lists.
+- Clean and organized project structure.
+- Bonus: Potent![Screenshot (16)](https://github.com/pathakmrityunjaykumar/CRUD-App/assets/61449824/471561d7-27cf-4eba-8c75-2df0a55de9ff)
+ial for user authentication using JWT (JSON Web Tokens).
 
 
 ![Screenshot (13)](https://github.com/pathakmrityunjaykumar/CRUD-App/assets/61449824/93ae40b3-219b-4a04-9ebe-9a64f2586243)
